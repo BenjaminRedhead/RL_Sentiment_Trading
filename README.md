@@ -3,5 +3,5 @@ This project is to implement reinforcement learning for stock trading with the b
 The architecture of this can be seen in the diagram below:
 
 <p align = "center">
-  <image src="Architecture_Diagram_1.jpg" , alt = "Architecture Diagram">
+  <image src="Figures/Architecture_Diagram_1.jpg" , alt = "Architecture Diagram">
 </p>
