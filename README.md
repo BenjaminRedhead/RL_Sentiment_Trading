@@ -1,4 +1,4 @@
-# RL_Sentiment_Trading
+# Senti-Trade RL
 This project is to implement reinforcement learning for stock trading with the benefit of a sentiment analysis module to model X.com (Twitter) sentiments about the stocks invested and link this to the reward function.
 The architecture of this can be seen in the diagram below:
 
