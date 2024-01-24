@@ -1,0 +1,131 @@
+absl-py==1.4.0
+aiohttp==3.8.5
+aiosignal==1.3.1
+ale-py==0.8.1
+annotated-types==0.6.0
+anyio==4.2.0
+appdirs==1.4.4
+async-timeout==4.0.3
+attrs==23.1.0
+backtrader==1.9.78.123
+beautifulsoup4==4.12.3
+boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1677499911949/work
+box2d-py==2.3.5
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1695989934239/work
+cachetools==5.3.0
+certifi==2023.7.22
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1696001737800/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698005359935/work
+cloudpickle==2.2.1
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+conda @ file:///Users/runner/miniforge3/conda-bld/conda_1696226024197/work
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1691048088238/work
+conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1691009212940/work
+contourpy==1.0.7
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography-split_1698192281817/work
+cycler==0.11.0
+Cython==0.29.34
+decorator==4.4.2
+distro==1.9.0
+exceptiongroup==1.2.0
+Farama-Notifications==0.0.4
+fasteners==0.18
+filelock==3.11.0
+fonttools==4.39.3
+frozendict==2.4.0
+frozenlist==1.4.0
+fsspec==2023.12.2
+future==0.18.3
+glfw==2.5.9
+google-auth==2.17.3
+google-auth-oauthlib==1.0.0
+grpcio==1.53.0
+gymnasium==0.28.1
+h11==0.14.0
+html5lib==1.1
+httpcore==1.0.2
+httpx==0.26.0
+huggingface-hub==0.20.3
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+imageio==2.27.0
+imageio-ffmpeg==0.4.8
+importlib-resources==5.12.0
+jax==0.3.24
+jax-jumpy==1.0.0
+jaxlib==0.3.24
+Jinja2==3.1.2
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
+jsonpointer @ file:///Users/runner/miniforge3/conda-bld/jsonpointer_1695397382064/work
+kiwisolver==1.4.4
+lxml==5.1.0
+lz4==4.3.2
+Markdown==3.4.3
+MarkupSafe==2.1.2
+matplotlib==3.7.1
+moviepy==1.0.3
+mpmath==1.3.0
+mujoco==2.3.3
+multidict==6.0.4
+multitasking==0.0.11
+networkx==3.2
+numpy==1.24.2
+oauthlib==3.2.2
+openai==1.9.0
+opencv-python==4.7.0.72
+opt-einsum==3.3.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandas==2.2.0
+peewee==3.17.0
+Pillow==9.5.0
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1693086607691/work
+proglog==0.1.10
+protobuf==4.22.3
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1696355969704/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pydantic==2.5.3
+pydantic_core==2.14.6
+pygame==2.1.3
+PyOpenGL==3.1.6
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1685514481738/work
+pyparsing==3.0.9
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil==2.8.2
+python-twitter==3.5
+pytz==2023.3.post1
+PyYAML==6.0.1
+regex==2023.12.25
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+requests-oauthlib==1.3.1
+rsa==4.9
+ruamel.yaml @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml_1698138674285/work
+ruamel.yaml.clib @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml.clib_1695996997220/work
+safetensors==0.4.2
+scipy==1.10.1
+seaborn==0.13.1
+Shimmy==0.2.1
+six==1.16.0
+sniffio==1.3.0
+soupsieve==2.5
+swig==4.1.1
+sympy==1.11.1
+tensorboard==2.12.1
+tensorboard-data-server==0.7.0
+tensorboard-plugin-wit==1.8.1
+tokenizers==0.15.1
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+transformers==4.37.0
+truststore @ file:///home/conda/feedstock_root/build_artifacts/truststore_1694154605758/work
+tweepy==4.14.0
+typing_extensions==4.9.0
+tzdata==2023.4
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1697720414277/work
+webencodings==0.5.1
+Werkzeug==2.2.3
+yarl==1.9.2
+yfinance==0.2.36
+zstandard==0.21.0
